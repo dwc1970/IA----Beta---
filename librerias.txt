@@ -1,0 +1,9 @@
+Aqui esta el listado de librerias y frameworks que se utilizan 
+
+SpeechRecognition  - libreria-Esta biblioteca es una interfaz de alto nivel para el reconocimiento de voz de Google Cloud Speech-to-Text. Es fácil de usar y puede ser utilizada para una variedad de tareas de reconocimiento de voz, como transcribir audio a texto o controlar dispositivos con voz.
+
+pocketsphinx - biblioteca - Esta biblioteca es un motor de reconocimiento de voz de código abierto que se basa en el algoritmo HTK. Es una buena opción para proyectos de reconocimiento de voz de baja potencia y pequeño tamaño.
+
+pyAudio -biblioteca - Esta biblioteca proporciona una interfaz de alto nivel para la captura y reproducción de audio en Python. Puede ser utilizada para grabar audio para su posterior análisis o para crear aplicaciones que interactúen con el usuario a través de la voz.
+
+pip install SpeechRecognition
